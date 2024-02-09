@@ -6,5 +6,6 @@ A presentation which I performed with five fellow students at Toi Ohomai Institu
 # What I Learned
 * Group Communication
 * Group Cooperation
-* PowerPoint
+* Microsoft Teams
+* Microsoft PowerPoint
 * Teamwork
