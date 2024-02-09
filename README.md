@@ -1,6 +1,6 @@
-# Western Wilds
+# Frozen Beige Crabs
 
-A UWP application where you can play dice, lotto, and slots or buy some drinks and learn information about the Western Wilds store.
+A presentation which I performed with five fellow students at Toi Ohomai Institute of Technology in Professional Practice (2021).
 
 
 # What I Learned
