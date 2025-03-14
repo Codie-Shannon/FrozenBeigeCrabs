@@ -4,6 +4,7 @@ A presentation which I performed with five fellow students at Toi Ohomai Institu
 
 
 # What I Learned
+* Discord
 * Group Communication
 * Group Cooperation
 * Microsoft Teams
